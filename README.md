@@ -1,2 +1,2 @@
 # Shale Theme
-A minimalistic dark theme inspired by [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) minimalism and [Nord](https://www.nordtheme.com/docs/colors-and-palettes) color scheme.
+A minimalistic dark theme inspired by [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) minimalism and [Nord](https://github.com/arcticicestudio/nord-visual-studio-code) color scheme.
