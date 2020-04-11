@@ -1,0 +1,21 @@
+{
+    "name": "shale",
+    "displayName": "Shale",
+    "description": "Dark theme inspired by Alabaster minimalism and Nord color scheme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shale",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shale-color-theme.json"
+            }
+        ]
+    }
+}

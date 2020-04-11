@@ -1,0 +1,133 @@
+{
+	"name": "Shale",
+	"type": "dark",
+	"tokenColors": [
+		{
+			"name": "Comments",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#616E88"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": [
+				"string",
+				"string.regexp",
+				"constant.other.symbol"
+			],
+			"settings": {
+				"foreground": "#A3BE8C"
+			}
+		},
+		{
+			"name": "Strings: Escape Sequences",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#EBCB8B"
+			}
+		},
+		{
+			"name": "Numbers, Characters",
+			"scope": [
+				"constant.numeric",
+				"constant.character",
+				"constant.keyword",
+				"constant"
+			],
+			"settings": {
+				"foreground": "#EBCB8B"
+			}
+		},
+		{
+			"name": "Global definitions",
+			"scope": "entity.name",
+			"settings": {
+				"foreground": "#88C0D0"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#ECEFF4"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"background": "#BF616A",
+				"foreground": "#D8DEE9"
+			}
+		},
+		{
+			"name": "Extra: Diff Range",
+			"scope": [
+				"meta.diff.range",
+				"meta.diff.index",
+				"meta.separator"
+			],
+			"settings": {
+				"background": "#DDDDFF",
+				"foreground": "#8FBCBB"
+			}
+		},
+		{
+			"name": "Extra: Diff From",
+			"scope": "meta.diff.header.from-file",
+			"settings": {
+				"foreground": "#8FBCBB"
+			}
+		},
+		{
+			"name": "Extra: Diff To",
+			"scope": "meta.diff.header.to-file",
+			"settings": {
+				"background": "#DDFFDD",
+				"foreground": "#8FBCBB"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#2e3440",
+		"editor.foreground": "#d8dee9",
+		"editor.lineHighlightBackground": "#3b4252",
+		"editor.selectionBackground": "#434c5ecc",
+		"editor.selectionHighlightBackground": "#434c5ecc",
+		"panel.background": "#2e3440",
+		"sideBar.background": "#2e3440",
+		"editorGroupHeader.tabsBackground": "#2e3440",
+		"activityBar.background": "#2e3440",
+		"activityBar.foreground": "#d8dee9",
+		"editorLineNumber.foreground": "#4c566a",
+		"editorCursor.foreground": "#d8dee9",
+		"editor.findMatchBackground": "#88c0d066",
+		"editor.findMatchHighlightBackground": "#88c0d033",
+		"statusBar.background": "#3b4252",
+		"statusBar.foreground": "#d8dee9",
+		"statusBar.debuggingBackground": "#5e81ac",
+		"statusBar.debuggingForeground": "#d8dee9",
+		"statusBar.noFolderBackground": "#3b4252",
+		"statusBar.noFolderForeground": "#d8dee9",
+		"terminal.ansiBlack": "#3b4252",
+        "terminal.ansiRed": "#bf616a",
+        "terminal.ansiGreen": "#a3be8c",
+        "terminal.ansiYellow": "#ebcb8b",
+        "terminal.ansiBlue": "#81a1c1",
+        "terminal.ansiMagenta": "#b48ead",
+        "terminal.ansiCyan": "#88c0d0",
+        "terminal.ansiWhite": "#e5e9f0",
+        "terminal.ansiBrightBlack": "#4c566a",
+        "terminal.ansiBrightRed": "#bf616a",
+        "terminal.ansiBrightGreen": "#a3be8c",
+        "terminal.ansiBrightYellow": "#ebcb8b",
+        "terminal.ansiBrightBlue": "#81a1c1",
+        "terminal.ansiBrightMagenta": "#b48ead",
+        "terminal.ansiBrightCyan": "#8fbcbb",
+        "terminal.ansiBrightWhite": "#eceff4",
+	}
+}
