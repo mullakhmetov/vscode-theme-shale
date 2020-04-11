@@ -2,7 +2,7 @@
     "name": "shale",
     "displayName": "Shale Theme",
     "description": "Dark theme inspired by Alabaster minimalism and Nord color scheme.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "mullakhmetov",
     "engines": {
         "vscode": "^1.12.0"
@@ -19,6 +19,7 @@
             }
         ]
     },
+    "icon": "icon.png",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/mullakhmetov/vscode-theme-shale.git"
