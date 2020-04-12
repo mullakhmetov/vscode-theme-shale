@@ -9,3 +9,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 
 - Make selections less contrast
+
+- Highlight comments and docstrings
